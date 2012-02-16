@@ -99,7 +99,7 @@
   </div>
 	
   <footer>
-		Brought to you by the <a href="http://www.nycga.net/groups/tech" target="_blank">NYC General Assembly Tech Ops group</a>
+		Brought to you by the <a href="http://tech.nycga.net" target="_blank">Occupy Tech</a>
   </footer>
 
 
